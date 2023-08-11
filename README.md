@@ -22,4 +22,4 @@ Pixel Pad is a Clean, Modern, Dark themed and animated Sass website. Build with 
 - React Fast Marquee
 - React Hot Toast
 
-## [Live Site Link 🚀](https://bike-hub.vercel.app/)
+## [Live Site Link 🚀](https://pixel-pad.vercel.app/)
